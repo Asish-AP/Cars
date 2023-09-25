@@ -14,7 +14,7 @@ This website is designed to simplify the process of renting a car. It offers a r
 
 We utilize the Cars Ninja API to power our car rental service. This API provides us with up-to-date information on a wide variety of cars, allowing us to offer you a diverse selection of models to choose from.
 
-For more information about the API, visit [Cars Ninja API](https://cars-ninja-api.example.com).
+For more information about the API, visit [Cars by API ninjas](https://rapidapi.com/apininjas/api/cars-by-api-ninjas/).
 
 ## How to Use
 
